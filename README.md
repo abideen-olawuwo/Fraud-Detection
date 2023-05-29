@@ -10,9 +10,9 @@ The dataset was downloaded from Kaggle  (https://www.kaggle.com/datasets/mlg-ulb
 
 * Features 
 
-gender, age, hypertension, heart diseases, ever_married, work_type, Residence_type, avg_glucose_level, bmi and smoking status
+The Feature include; Time, V1 -V28, and Amount
 
 * Modelling
 
-The Model used for prediction are Logistic Regression, Kneigbour Classifier, Random Forest Classifier, Decision Tree, Ada Boost, XGB Classifier, Catboost
+The Model used for prediction are Logistic Regression, Tensorflow, Keras
 
